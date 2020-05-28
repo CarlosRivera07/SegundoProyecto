@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Screen Title</string>
+    <string name="Nombre">Nombre completo</string>
+    <string name="Fecha">Fecha de Nacimiento</string>
+    <string name="Telefono">Teléfono</string>
+    <string name="Email">Email</string>
+    <string name="Descripcion">Descripción Contacto</string>
+    <string name="Siguiente">Siguiente</string>
+</resources>
